@@ -54,7 +54,7 @@ public:
                     break;
 
                 default:
-                    cout << "Invalid symbole is being entered" << endl;
+                    cout <<"Invalid symbole is being entered" << endl;
                     cout << "Enter the correct expression" << endl;
                     break;
                 }
